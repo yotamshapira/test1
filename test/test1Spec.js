@@ -5,7 +5,7 @@ describe("Test Suite 1", function() {
         expect(true).to.equal(true);
     });
 
-    it("Is not a failing test anymore", function () {
+    it("Is not a failing test anymore!", function () {
         expect(false).not.to.equal(true);
     });
 });
